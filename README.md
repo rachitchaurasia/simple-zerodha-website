@@ -14,7 +14,7 @@ The clone focuses on implementing a responsive and visually appealing design, re
 
 ### Screenshot
 
-![Screenshot](assets\image.png)
+![Screenshot](assets/image.png)
 
 
 ## Getting Started
